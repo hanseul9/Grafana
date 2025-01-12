@@ -1,1 +1,3 @@
 # Grafana
+
+docker-compose up
